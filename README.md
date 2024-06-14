@@ -5,6 +5,9 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sdrwu75J)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-henrique-clemente-morelli-350a30313/)
 
+![snake gif](https://github.com/CarlosMorelli/CarlosMorelli/blob/output/github-contribution-grid-snake.gif)
+
+
 ### Linguagens que aprendo na Escola Técnica Estadual Professor Horácio Augusto da Silveira.
 
 <div style="display: inline_block"><br/>
