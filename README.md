@@ -2,8 +2,8 @@
 ### Olá! eu sou o Carlos Morelli 🖐
 
 
-![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/carlos-henrique-clemente-morelli-350a30313/)]
+[Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+[Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ### Linguagens que aprendo na Escola Técnica Estadual Professor Horácio Augusto da Silveira.
 
