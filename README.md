@@ -7,7 +7,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/b6aZa6JMJr)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-henrique-clemente-morelli-350a30313/)
 
-### Conteúdos que tenho um estudo por parte do HAS.
+### Skills.
 
 <div style="display: inline_block"><br/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)">
